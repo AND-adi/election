@@ -5,7 +5,7 @@
     width: 100%;
     height: 100vh;
     text-align: center;
-    overflow: hidden;
+    
     position: relative;
 }
 .banner .slider{
@@ -78,7 +78,7 @@
     font-size: 3em;
 }
 .banner .content .model{
-    background-image: url(/Red\ Bold\ Ft3t4tinance\ YouTube\ Thumbnail.png);
+    background-image: url(/election/Really_Great_Site-removebg-preview.png);
     width: 100%;
     height: 100vh;
     position: absolute;
@@ -131,10 +131,4 @@
     .banner .content h1{
         font-size: 5em;
     }
-}
-p{
-    black;
-}
-b{
-    black;
 }
